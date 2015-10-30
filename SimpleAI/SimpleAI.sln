@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleAI.CSharp.Plugins", "SimpleAI.CSharp.Plugins.csproj", "{BB4D369D-8B5F-06CF-570C-2A5B89FCEA20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleAI.CSharp", "SimpleAI.CSharp.csproj", "{A3168E66-9208-71D1-9E60-8B9572312FF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleAI.CSharp.Editor", "SimpleAI.CSharp.Editor.csproj", "{3AF609B1-5464-C673-08FD-5A14090F2D27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB4D369D-8B5F-06CF-570C-2A5B89FCEA20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB4D369D-8B5F-06CF-570C-2A5B89FCEA20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB4D369D-8B5F-06CF-570C-2A5B89FCEA20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB4D369D-8B5F-06CF-570C-2A5B89FCEA20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3168E66-9208-71D1-9E60-8B9572312FF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3168E66-9208-71D1-9E60-8B9572312FF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3168E66-9208-71D1-9E60-8B9572312FF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3168E66-9208-71D1-9E60-8B9572312FF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AF609B1-5464-C673-08FD-5A14090F2D27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AF609B1-5464-C673-08FD-5A14090F2D27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AF609B1-5464-C673-08FD-5A14090F2D27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AF609B1-5464-C673-08FD-5A14090F2D27}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
